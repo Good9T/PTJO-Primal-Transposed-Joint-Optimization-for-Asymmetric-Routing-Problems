@@ -1,7 +1,6 @@
 # PTJO-Primal-Transposed-Joint-Optimization-for-Asymmetric-Routing-Problems
 Source code of PTJO.
 # PTJO
-The source code of PTJO.<br>
 We provide codes for two ARP variants<br>
 - Asymmetric Traveler Salesman Problem (ATSP) <br>
 - Asymmetric Capacitated Vehicle Routing Problem (ACVRP) <br>
